@@ -1,6 +1,6 @@
 ---
 title: "SDS 237 - Mini-Project: Discourse Analysis"
-author: "YOUR NAME HERE"
+author: "Jem Park"
 date: "Last updated on `r Sys.Date()`"
 output: pdf_document
 ---
@@ -10,32 +10,44 @@ output: pdf_document
 # 1. Establish the context 
 
 ## Who is speaking?
+- Chris Anderson
+    - tone words: sensational, arrogant, unwelcoming, biased, matter of fact
 
 ## What are they speaking about?
+- the movement and development of data
     
 ## When/where/why are they speaking?
+- 2008, their own laptop, their own headspace
 
 ---
 # 2. Consider the medium
 
 ## Through what medium are they speaking, and how was this medium produced?
+- pop culture, millenial/GenZ, tech, informal, online publication, probably the more shares the better, in Wired vs NYT
 
 ## How does this particular medium for communication impact what comes across in speaking?
+- seems more dramatic, buzz words, "all we need is data", sensationalist
 
 ---
 # 3. Discern the intended audience
 
 ## Who is the speaker addressing, and why are they addressing this particular audience?
+- millenials/GenZ, younger generation, more provocative, more sensationalized- one thing more than the other
 
 ## How receptive do you think the audience will be to the message?
+- not super receptive- seems reductive- positivsit thinking that technology will solve all problems and progress
 
 ---
 
 # 4. Assess assumptions 
 
 ## What worldviews shape how the speaker approaches communication?
+- Positivist- don't need theories- people make theories and people mess it up so focus directly on the data
+- perhaps not rationalist- removes the logical steps
+- empiricists start with data and observations- "the data will speak for itself"
 
 ## What does the speaker suggest to be ‘given’ or ‘certain’?
+
 
 ## What binary oppositions structure the speaker’s speech?
 
